@@ -1,0 +1,1 @@
+{"detections": [{"det_bbox": [0.03510206937789917, 0.4207755923271179, 0.8580963015556335, 0.7041707634925842], "confidence": 0.9950893521308899, "label": "vehicle", "classid": 3, "scan": "global", "multiclass": {"background": 0.9612263760079409}}]}
